@@ -97,17 +97,6 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [MIT Courses](Universities/MIT.md)
 - [Stanford Courses](Universities/Stanford.md)
 
-#### Imperial College
-- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) Coursera
-- [Tensor 2 for Deep Learning](https://www.coursera.org/specializations/tensorflow2-deeplearning) Coursera
-- [Android App Development (Advanced)](https://www.coursera.org/specializations/advanced-app-android) Coursera
-#### Oxford
-- [Deep Learning for Natural Language Processing](https://www.classcentral.com/course/independent-deep-learning-for-natural-language-processing-8097)
-#### University of Cambridge
-- [UX Design](https://www.coursera.org/learn/user-experience-design-cam) Coursera
-
----
-
 ## 🚀 Contributing
 Pull requests are welcome!  
 If you know of other free Ivy League courses, feel free to add them.
