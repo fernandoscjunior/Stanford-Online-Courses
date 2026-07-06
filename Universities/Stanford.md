@@ -42,24 +42,28 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 ## Machine Learning (Third Year)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) Coursera
 
-- [Intro to Statistics](https://www.classcentral.com/course/udacity-intro-to-statistics-361) Udacity
-- [CS221 Artificial Intelligence Principles and Techniques Autumn 2021](https://www.classcentral.com/course/youtube-stanford-cs221-artificial-intelligence-principles-and-techniques-autumn-2021-512657) Youtube
+- [ENGR108 Intro to Applied Linear Algebra](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) Youtube
+- [EE104 Introduction to Machine Learning](https://www.youtube.com/watch?v=jbNVUCRMUP0&list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK) Youtube
 
+- [CS221 Artificial Intelligence Principles and Techniques Autumn 2021](https://www.classcentral.com/course/youtube-stanford-cs221-artificial-intelligence-principles-and-techniques-autumn-2021-512657) Youtube
 - [CS224N Natural Language Processing with Deep Learning 2023](https://www.classcentral.com/classroom/youtube-stanford-cs224n-natural-language-processing-with-deep-learning-2023-512667) Youtube
+
 - [CS229 Machine Learning](https://see.stanford.edu/Course/CS229) Stanford
+- [CS234 Reinforcement Learning Spring 2024](https://www.classcentral.com/classroom/youtube-stanford-cs234-i-reinforcement-learning-i-spring-2024-i-emma-brunskill-512659) Youtube
 
 - [CS236 Deep Generative Models](https://deepgenerativemodels.github.io/notes/) Stanford
 - [CS246 Mining Massive Datasets](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406) edx
 
-- [CS330 Deep Multi-Task and Meta Learning](https://www.classcentral.com/course/youtube-stanford-cs330-deep-multi-task-and-meta-learning-107765) Youtube
-- [CS234 Reinforcement Learning Spring 2024](https://www.classcentral.com/classroom/youtube-stanford-cs234-i-reinforcement-learning-i-spring-2024-i-emma-brunskill-512659) Youtube
-
 ---
 
-## Machine Learning II (Fourth Year)
+## Deep Learning Learning (Fourth Year)
+- [CS231N Deep Learning for Computer Vision](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) Youtube
+- [CS330 Deep Multi-Task and Meta Learning](https://www.classcentral.com/course/youtube-stanford-cs330-deep-multi-task-and-meta-learning-107765) Youtube
+
 - [CS336 Language Modeling from Scratch 2025](https://www.classcentral.com/classroom/youtube-stanford-cs336-language-modeling-from-scratch-i-2025-512656) Youtube
 
 ## Elective Courses
+- [AA228V Validation of Safety Critical Systems](https://www.youtube.com/watch?v=hE9iWwMZANE&list=PLoROMvodv4rOq1LMLI8U7djzDb8--xpaC) Youtube
 - [Advanced Cybersecurity](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)
 - [Applications of AI in Medicine](https://online.stanford.edu/courses/xmlph090-applications-machine-learning-medicine-program-preview)
 - [Automata Theory](https://www.classcentral.com/course/coding-stanford-university-automata-theory-376) edx
@@ -68,6 +72,7 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [Generative AI: Technology, Business and Society](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)
 - [Human Computer Interaction Webnar Series](https://www.classcentral.com/course/youtube-stanford-cs547-human-computer-interaction-seminar-series-107766) Youtube
 - [Introduction to Quantum Computing](https://www.classcentral.com/course/youtube-stanford-seminar-how-to-compute-with-schroedinger-s-cat-an-introduction-to-quantum-computing-110031) Youtube
+- [Intro to Statistics](https://www.classcentral.com/course/udacity-intro-to-statistics-361) Udacity
 - [IOT: From Smart Sensors to Smart Network](https://www.classcentral.com/course/youtube-stanford-webinar-iot-from-smart-sensors-to-smart-networks-110007) Youtube
 - [How to Design Addictive Video Games](https://www.classcentral.com/classroom/youtube-stanford-seminar-how-to-design-addictive-games-191982) Youtube
 - [Physical-Based Sound Sythesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) Kadenze
