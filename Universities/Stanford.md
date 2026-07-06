@@ -75,7 +75,6 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [Intro to Statistics](https://www.classcentral.com/course/udacity-intro-to-statistics-361) Udacity
 - [IOT: From Smart Sensors to Smart Network](https://www.classcentral.com/course/youtube-stanford-webinar-iot-from-smart-sensors-to-smart-networks-110007) Youtube
 - [How to Design Addictive Video Games](https://www.classcentral.com/classroom/youtube-stanford-seminar-how-to-design-addictive-games-191982) Youtube
-- [Physical-Based Sound Sythesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) Kadenze
 - [Statiscal Learning with Python](https://online.stanford.edu/courses/sohs-ystatslearningp-statistical-learning-python) edx
 - [Statiscal Learning with R](https://www.classcentral.com/classroom/youtube-statistical-learning-with-r-512673) Youtube
 - [Product Management 101](https://www.classcentral.com/course/youtube-product-management-101-the-product-lifecycle-191613) Youtube
