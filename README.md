@@ -1,6 +1,6 @@
 # Free Ivy League IT Courses
 
-A curated list of **free online courses** offered by Ivy League universities as well as other prestigious institutions from United States, UK and Canada.  
+A curated list of **free online courses** offered by Ivy League universities as well as other prestigious institutions from United States.  
 Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x).  
 (Some courses are available for free or low-cost by using the financial aid support resources offered by Coursera, edx, Udacity and so on).
 
