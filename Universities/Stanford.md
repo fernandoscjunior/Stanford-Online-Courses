@@ -16,7 +16,7 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [Cryptography](https://www.coursera.org/learn/crypto) Coursera
 
 - [Human Computer Interaction Webnar Series](https://www.classcentral.com/course/youtube-stanford-cs547-human-computer-interaction-seminar-series-107766) Youtube
-- [Generative AI: Technology, Business and Society](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)
+- [Generative AI: Technology, Business and Society](https://online.stanford.edu/courses/xfm100-generative-ai-technology-business-and-society-program-preview)
 
 - [Introduction to SQL & Databases](https://www.edx.org/xseries/stanfordonline-introduction-to-sql-databases) edx
 - [An Introduction to Computer Networks](https://www.classcentral.com/course/independent-an-introduction-to-computer-networks-471) Stanford
