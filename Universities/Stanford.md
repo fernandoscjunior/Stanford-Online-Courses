@@ -32,6 +32,7 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 
 - [CS154 Introduction to the Theory of Computing](https://www.classcentral.com/classroom/youtube-cs154-stanford-introduction-to-the-theory-of-computing-107760) Youtube
 - [EE274 Data Compression 2023](https://www.youtube.com/watch?v=FF7DRogZZdY&list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) Youtube
+- [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) edx
 
 - [CS193A Android App Development Winter 2019](https://www.classcentral.com/classroom/youtube-cs-193a-android-app-development-winter-2019-107767) Youtube
 - [CS193P Developing Apps for IOS](https://cs193p.stanford.edu/)
