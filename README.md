@@ -1,101 +1,82 @@
-# Free Ivy League IT Courses
+# Stanford Online IT Courses 
 
-A curated list of **free online courses** offered by Ivy League universities as well as other prestigious institutions from United States.  
-Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x).  
-(Some courses are available for free or low-cost by using the financial aid support resources offered by Coursera, edx, Udacity and so on).
+This is an **Unofficial** list of Stanford courses organized to look like an official Computer Science degree offered at Stanford University.
+
+## Stanford Website
+- [Stanford Online - Free Courses](https://online.stanford.edu/explore?filter%5B0%5D=free_or_paid%3Afree&filter%5B1%5D=topic%3A1047&filter%5B2%5D=topic%3A1057&filter%5B3%5D=topic%3A1062)
+- [Classcentral List of Stanford Free IT Courses](https://www.classcentral.com/university/stanford?free=true&subject=ai%2Ccs%2Cdata-science%2Cprogramming-and-software-development)
 
 ---
 
-## 📚 Univerities
-- [Brown University](#brown-university)
-- [Columbia University](#columbia-university)
-- [Cornell University](#cornell-university)
-- [Dartmouth](#dartmouth)
-- [Harvard](#harvard)
-- [Princeton University](#princeton-univeristy)
-- [University of Pennsylvania](#university-of-pennsylvania)
-- [Yale](#yale)
-- [Other Universities](#other-universities)
+## Introduction to Computer Science (First Year)
+- [Computer Science 101](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101) edx
+- [CS105 Intro to Computers](https://www.classcentral.com/course/youtube-stanford-cs105-introduction-to-computers-full-course-107758) Youtube
   
----
+- [Algorithms](https://www.coursera.org/specializations/algorithms) Coursera
+- [Cryptography](https://www.coursera.org/learn/crypto) Coursera
 
-## University Websites (Listing Free IT Courses)
-- [Cornell Univeristy](https://ocw.ece.cornell.edu/)
-- [Coursera](https://www.coursera.org/browse)
-- [edx](https://www.edx.org/search?q=artificial+intelligence&attributes=Artificial+Intelligence&attributes=Computer+Science&attributes=Electronics&attributes=Data+Analysis+%26+Statistics&attributes=Engineering&language=English)
-- [Harvard](https://pll.harvard.edu/catalog?topics%5B702%5D=702&topics%5B714%5D=714&topics%5B715%5D=715&price%5B1%5D=1&max_price=&keywords=&available_anytime=0&url=&page=0)
-- [Udacity](https://www.udacity.com/catalog?price=free&school=programming%20and%20development%2Cartificial%20intelligence%2Cdata%20science%2Ccybersecurity)
+- [Human Computer Interaction Webnar Series](https://www.classcentral.com/course/youtube-stanford-cs547-human-computer-interaction-seminar-series-107766) Youtube
+- [Generative AI: Technology, Business and Society](https://online.stanford.edu/courses/xfm100-generative-ai-technology-business-and-society-program-preview)
 
----
-
-## Brown University
-- [CSCI1730 Intro to Programming Languages](https://www.classcentral.com/course/independent-csci-1730-introduction-to-programming-languages-458?ref=freecodecamp)
-- [Machine Learning: Unsupervised Learning](https://www.classcentral.com/course/udacity-machine-learning-unsupervised-learning-1848) Udacity
-- [Reinforcement Learning](https://www.classcentral.com/course/udacity-reinforcement-learning-1849) Udacity
+- [Introduction to SQL & Databases](https://www.edx.org/xseries/stanfordonline-introduction-to-sql-databases) edx
+- [An Introduction to Computer Networks](https://www.classcentral.com/course/independent-an-introduction-to-computer-networks-471) Stanford
 
 ---
 
-## Columbia University
-- [Decision Making and Reinforcement Learning](https://www.coursera.org/learn/dmrol) Coursera
-- [Essential Math for AI](https://www.classcentral.com/course/computer-science-columbia-university-essential-ma-295554) edx
-- [First Principles in Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) Coursera
-- [Programming & Data Structures](https://www.classcentral.com/course/computer-science-columbia-university-programming--295555)
+## Advanced Programming (Second Year)
+- [CS106A Programming Methodology](https://see.stanford.edu/Course/CS106A) Stanford
+- [CS106B Programming Abstractions](https://see.stanford.edu/Course/CS106B) Stanford
+
+- [CS107 Programming Paradigms](https://see.stanford.edu/Course/CS107) Stanford
+- [CS149 Parallel Computing](https://www.classcentral.com/classroom/youtube-stanford-cs149-i-parallel-computing-i-2023-i-kayvon-fatahalian-and-kunle-olukotun-512660) Youtube
+
+- [CS154 Introduction to the Theory of Computing](https://www.classcentral.com/classroom/youtube-cs154-stanford-introduction-to-the-theory-of-computing-107760) Youtube
+- [EE274 Data Compression 2023](https://www.youtube.com/watch?v=FF7DRogZZdY&list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) Youtube
+- [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) edx
+
+- [CS193A Android App Development Winter 2019](https://www.classcentral.com/classroom/youtube-cs-193a-android-app-development-winter-2019-107767) Youtube
+- [CS193P Developing Apps for IOS](https://cs193p.stanford.edu/)
+
 
 ---
 
-## Cornell University
-- [Database Systems](https://www.classcentral.com/course/freecodecamp-database-systems-cornell-university-course-sql-nosql-large-scale-data-analysis-57068?ref=freecodecamp)
-- [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) edx
+## Machine Learning (Third Year)
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) Coursera
+
+- [ENGR108 Intro to Applied Linear Algebra](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) Youtube
+- [EE104 Introduction to Machine Learning](https://www.youtube.com/watch?v=jbNVUCRMUP0&list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK) Youtube
+
+- [CS221 Artificial Intelligence Principles and Techniques Autumn 2021](https://www.classcentral.com/course/youtube-stanford-cs221-artificial-intelligence-principles-and-techniques-autumn-2021-512657) Youtube
+- [CS224N Natural Language Processing with Deep Learning 2023](https://www.classcentral.com/classroom/youtube-stanford-cs224n-natural-language-processing-with-deep-learning-2023-512667) Youtube
+
+- [CS229 Machine Learning](https://see.stanford.edu/Course/CS229) Stanford
+- [CS234 Reinforcement Learning Spring 2024](https://www.classcentral.com/classroom/youtube-stanford-cs234-i-reinforcement-learning-i-spring-2024-i-emma-brunskill-512659) Youtube
+
+- [CS236 Deep Generative Models](https://deepgenerativemodels.github.io/notes/) Stanford
+- [CS246 Mining Massive Datasets](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406) edx
 
 ---
 
-## Dartmouth
-- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) Coursera/edx
-- [Data Analytics for Digital Transformations](https://www.edx.org/certificates/professional-certificate/dartmouthx-data-analytics-for-digital-transformation) Coursera/edx
-- [Practical Machine Learning: Foundations to Neural Networks](https://www.coursera.org/specializations/dartmouth-practical-machine-learning)
+## Deep Learning Learning (Fourth Year)
+- [CS231N Deep Learning for Computer Vision](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) Youtube
+- [CS330 Deep Multi-Task and Meta Learning](https://www.classcentral.com/course/youtube-stanford-cs330-deep-multi-task-and-meta-learning-107765) Youtube
+
+- [CS336 Language Modeling from Scratch 2025](https://www.classcentral.com/classroom/youtube-stanford-cs336-language-modeling-from-scratch-i-2025-512656) Youtube
+- [CS223A Intro to Robotics](https://see.stanford.edu/Course/CS223A) Stanford
+
+## Elective Courses
+- [Advanced Cybersecurity](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)
+- [Applications of AI in Medicine](https://online.stanford.edu/courses/xmlph090-applications-machine-learning-medicine-program-preview)
+- [Automata Theory](https://www.classcentral.com/course/coding-stanford-university-automata-theory-376) edx
+- [Cryptocurrencies and Blockchains - The Science Behind the Technology](https://www.classcentral.com/classroom/youtube-stanford-webinar-cryptocurrencies-and-blockchains-the-science-behind-the-technology-dan-boneh-191601) Youtube
+- [Introduction to Quantum Computing](https://www.classcentral.com/course/youtube-stanford-seminar-how-to-compute-with-schroedinger-s-cat-an-introduction-to-quantum-computing-110031) Youtube
+- [IOT: From Smart Sensors to Smart Network](https://www.classcentral.com/course/youtube-stanford-webinar-iot-from-smart-sensors-to-smart-networks-110007) Youtube
+- [How to Design Addictive Video Games](https://www.classcentral.com/classroom/youtube-stanford-seminar-how-to-design-addictive-games-191982) Youtube
+- [Statiscal Learning with Python](https://online.stanford.edu/courses/sohs-ystatslearningp-statistical-learning-python) edx
+- [Statiscal Learning with R](https://www.classcentral.com/classroom/youtube-statistical-learning-with-r-512673) Youtube
+- [Product Management 101](https://www.classcentral.com/course/youtube-product-management-101-the-product-lifecycle-191613) Youtube
 
 ---
-
-## Harvard
-- [Advanced Algorithms](https://www.classcentral.com/classroom/youtube-advanced-algorithms-compsci-224-48051) Youtube
-- [CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-- [Data Science](https://www.edx.org/certificates/professional-certificate/harvardx-data-science) edx
-- [Fundamentals of TinyML](https://www.classcentral.com/course/machine-learning-harvard-university-fundamentals--21641?ref=freecodecamp) edx
-- [Tiny ML](https://www.edx.org/certificates/professional-certificate/harvardx-tiny-machine-learning) edx
-- [Applied Tiny ML](https://www.edx.org/certificates/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale) edx
-
----
-
-## Princeton University
-
-- [Algorithms Pt.I](https://www.coursera.org/learn/algorithms-part1) Coursera
-- [Algorithms Pt.II](https://www.coursera.org/learn/algorithms-part2) Coursera
-- [Analysis of Algorithm](https://www.coursera.org/learn/analysis-of-algorithms) Coursera
-- [Computer Architecture](https://www.coursera.org/learn/comparch) Coursera
-- [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) Coursera
-- [Computer Science: Programming with Purpose (Java)](https://www.coursera.org/learn/cs-programming-java) Coursera
-- [Cryptocurrency](https://www.coursera.org/learn/cryptocurrency) Coursera
-
----
-
-## University of Pennsylvania
-- [AI and Machine Learning Fundamentals with Python](https://www.coursera.org/specializations/ai-machinelearning-essentials) Coursera
-- [Haskell Programming](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html)
-- [How to Use Data](https://www.coursera.org/specializations/how-to-use-data) Coursera
-- [Intro to Python and Java Programming](https://www.coursera.org/specializations/programming-python-java) Coursera
-
----
-
-## Yale
-- [Intro to Medical Software](https://www.coursera.org/learn/introduction-to-medical-software?msockid=1830aefc482962db0d8cb9a749f06365) Coursera
-- [Model Based Deep Learning](https://www.classcentral.com/classroom/youtube-model-based-deep-learning-beyond-unrolling-182518)
-
----
-
-## Other Universities
-- [Georgia Tech Courses](Universities/GeorgiaTech.md)
-- [MIT Courses](Universities/MIT.md)
-- [Stanford Courses](Universities/Stanford.md)
 
 ## 🚀 Contributing
 Pull requests are welcome!  
