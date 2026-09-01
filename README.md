@@ -14,6 +14,7 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
   
 - [Algorithms](https://www.coursera.org/specializations/algorithms) Coursera
 - [Cryptography](https://www.coursera.org/learn/crypto) Coursera
+- [Intro to Logic](http://intrologic.stanford.edu/homepage/index.html) Stanford
 
 - [Human Computer Interaction Webnar Series](https://www.classcentral.com/course/youtube-stanford-cs547-human-computer-interaction-seminar-series-107766) Youtube
 - [Generative AI: Technology, Business and Society](https://online.stanford.edu/courses/xfm100-generative-ai-technology-business-and-society-program-preview)
@@ -28,6 +29,7 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [CS106B Programming Abstractions](https://see.stanford.edu/Course/CS106B) Stanford
 
 - [CS107 Programming Paradigms](https://see.stanford.edu/Course/CS107) Stanford
+- [CS110 Principles of Computer Systems](https://www.youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS) Youtube
 - [CS149 Parallel Computing](https://www.classcentral.com/classroom/youtube-stanford-cs149-i-parallel-computing-i-2023-i-kayvon-fatahalian-and-kunle-olukotun-512660) Youtube
 
 - [CS154 Introduction to the Theory of Computing](https://www.classcentral.com/classroom/youtube-cs154-stanford-introduction-to-the-theory-of-computing-107760) Youtube
@@ -52,13 +54,13 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [CS229 Machine Learning](https://see.stanford.edu/Course/CS229) Stanford
 - [CS234 Reinforcement Learning Spring 2024](https://www.classcentral.com/classroom/youtube-stanford-cs234-i-reinforcement-learning-i-spring-2024-i-emma-brunskill-512659) Youtube
 
-- [CS236 Deep Generative Models](https://deepgenerativemodels.github.io/notes/) Stanford
-- [CS246 Mining Massive Datasets](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406) edx
-
 ---
 
 ## Deep Learning Learning (Fourth Year)
 - [CS231N Deep Learning for Computer Vision](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) Youtube
+- [CS236 Deep Generative Models](https://deepgenerativemodels.github.io/notes/) Stanford
+  
+- [CS246 Mining Massive Datasets](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406) edx
 - [CS330 Deep Multi-Task and Meta Learning](https://www.classcentral.com/course/youtube-stanford-cs330-deep-multi-task-and-meta-learning-107765) Youtube
 
 - [CS336 Language Modeling from Scratch 2025](https://www.classcentral.com/classroom/youtube-stanford-cs336-language-modeling-from-scratch-i-2025-512656) Youtube
@@ -69,6 +71,7 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [Applications of AI in Medicine](https://online.stanford.edu/courses/xmlph090-applications-machine-learning-medicine-program-preview)
 - [Automata Theory](https://www.classcentral.com/course/coding-stanford-university-automata-theory-376) edx
 - [Cryptocurrencies and Blockchains - The Science Behind the Technology](https://www.classcentral.com/classroom/youtube-stanford-webinar-cryptocurrencies-and-blockchains-the-science-behind-the-technology-dan-boneh-191601) Youtube
+- [EE263 - Introduction to Linear Dynamical Systems](https://see.stanford.edu/Course/EE263) Stanford
 - [Introduction to Quantum Computing](https://www.classcentral.com/course/youtube-stanford-seminar-how-to-compute-with-schroedinger-s-cat-an-introduction-to-quantum-computing-110031) Youtube
 - [IOT: From Smart Sensors to Smart Network](https://www.classcentral.com/course/youtube-stanford-webinar-iot-from-smart-sensors-to-smart-networks-110007) Youtube
 - [How to Design Addictive Video Games](https://www.classcentral.com/classroom/youtube-stanford-seminar-how-to-design-addictive-games-191982) Youtube
